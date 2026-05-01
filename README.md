@@ -1,4 +1,6 @@
 # Cloudflare MCP Server
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjaymcisaac56-dev%2Fmcp-server-cloudflare.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjaymcisaac56-dev%2Fmcp-server-cloudflare?ref=badge_shield)
+
 
 Model Context Protocol (MCP) is a [new, standardized protocol](https://modelcontextprotocol.io/introduction) for managing context between large language models (LLMs) and external systems. In this repository, you can find several MCP servers allowing you to connect to Cloudflare's service from an MCP client (e.g. Cursor, Claude) and use natural language to accomplish tasks through your Cloudflare account.
 
@@ -102,3 +104,7 @@ Some features may require a paid Cloudflare Workers plan. Ensure your Cloudflare
 ## Contributing
 
 Interested in contributing, and running this server locally? See [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjaymcisaac56-dev%2Fmcp-server-cloudflare.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjaymcisaac56-dev%2Fmcp-server-cloudflare?ref=badge_large)
